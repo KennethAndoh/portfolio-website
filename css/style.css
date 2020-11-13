@@ -55,17 +55,17 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #15181b;
   text-align: left;
   background-color: #fff; }
 
 .img img{
-  width: 35em;
-  height: 50em;
+  width: 500px;
+  height: 650px;
   padding-top: 20px; 
 }
 
-@media (max-width: 600px) {
+@media (min-width: 965px) {
   .img img{
     width: 29em;
     height: 50em; 
